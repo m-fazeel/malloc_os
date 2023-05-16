@@ -1,4 +1,5 @@
 # Malloc & Free Implementation
+Welcome to my implementation of  `malloc` and `free`! This library interacts with the operating system to perform heap management on behalf of a user process.
 
 # Table of Contents
 - [Malloc \& Free Implementation](#malloc--free-implementation)
